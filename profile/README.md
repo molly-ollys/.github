@@ -4,10 +4,11 @@ Molly Olly's Wishes is a charity who help children with life threatening illness
 
 More information on the charity can be found [on their website](https://mollyolly.co.uk).
 
-This repo contains code for some key systems built for Molly Olly's.
+This repo contains code for some key systems built for Molly Olly's. All code is private for security.
 
-## Searchdown
+## Public Projects
 
-A JS library for searchable dropdowns. Packaged and published to npm.
-
-[Searchdown](https://github.com/molly-ollys/searchdown)
+- [Portal](https://portal.mollyolly.co.uk)
+- [Auth Service](https://auth.mollyolly.co.uk)
+- [Silent Auction](https://auction.mollyolly.co.uk)
+- [Club](https://mollyolly.club)
